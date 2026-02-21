@@ -1,5 +1,6 @@
-import java.util.Scanner;
+package com.ANANT.javaAssing.Assignments-1;
 
+import java.util.Scanner;
 public class InputString {
     static String s1,s2,s3,s4,s5;
     static void inputString(){
