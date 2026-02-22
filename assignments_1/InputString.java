@@ -1,4 +1,4 @@
-package com.ANANT.javaAssing.Assignments-1;
+
 
 import java.util.Scanner;
 public class InputString {
